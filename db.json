@@ -1,64 +1,112 @@
-{
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-      }
+[
+    {
+    "id": 1,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/01.png",
+    "name": "saikumar",
+    "contact": "8888887353",
+    "email": "saikumar@gmail.com",
+    "country": "india",
+    "status": "active",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 2,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/02.png",
+    "name": "anees",
+    "contact": "888858523",
+    "email": "anees@gmail.com",
+    "country": "india",
+    "status": "inactive",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 3,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/03.png",
+    "name": "ganesh",
+    "contact": "1234558523",
+    "email": "ganesh@gmail.com",
+    "country": "india",
+    "status": "pending",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 4,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/04.png",
+    "name": "rohan",
+    "contact": "8813423523",
+    "email": "rohan@gmail.com",
+    "country": "india",
+    "status": "hold",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 5,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/05.png",
+    "name": "sowmya",
+    "contact": "888858512",
+    "email": "sowmya@gmail.com",
+    "country": "india",
+    "status": "complete",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 6,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/06.png",
+    "name": "meghana",
+    "contact": "8888887353",
+    "email": "meghana@gmail.com",
+    "country": "india",
+    "status": "active",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 7,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/06.png",
+    "name": "manjula",
+    "contact": "888858523",
+    "email": "manjula@gmail.com",
+    "country": "india",
+    "status": "inactive",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 8,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/05.png",
+    "name": "neelima",
+    "contact": "1234558523",
+    "email": "neelima@gmail.com",
+    "country": "india",
+    "status": "pending",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 9,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/03.png",
+    "name": "bhargav",
+    "contact": "8813423523",
+    "email": "bhargav@gmail.com",
+    "country": "india",
+    "status": "hold",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    },
+    {
+    "id": 10,
+    "profile": "https://templates.iqonic.design/hope-ui/html/dist/assets/images/shapes/02.png",
+    "name": "dinesh",
+    "contact": "888858512",
+    "email": "dinesh@gmail.com",
+    "country": "india",
+    "status": "complete",
+    "company": "axivise technologies",
+    "joinDate": "09/10/2023"
+    }
     ]
-  }
